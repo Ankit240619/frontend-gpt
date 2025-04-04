@@ -6,7 +6,7 @@ import json
 
 #API_BASE_URL = "http://localhost:8000"
 
-API_BASE_URL = "https://case-798800248787.us-central1.run.app"
+API_BASE_URL = "https://assgn4-798800248787.us-central1.run.app"
 
 # Streamlit UI Design
 st.set_page_config(page_title="PDF Analyzer", layout="wide")
